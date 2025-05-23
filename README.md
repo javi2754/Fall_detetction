@@ -23,8 +23,8 @@ cd vision_based_fall_detection
 ### 2. Create and activate the Conda environment
 
 ```bash
-conda create --name gesture python=3.10 -y
-conda activate gesture
+conda create --name fall_detection python=3.10 -y
+conda activate fall_detection 
 ```
 
 ### 3. Install dependencies
